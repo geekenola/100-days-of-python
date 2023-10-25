@@ -14,7 +14,7 @@ while i <= 30 and n >= 1:
 
 print(S) 
 #ls
-
+print(S*100)
  
 
  
