@@ -13,6 +13,7 @@ while i <= 30 and n >= 1:
     n -= 1 
 
 print(S) 
+#ls
 
  
 
